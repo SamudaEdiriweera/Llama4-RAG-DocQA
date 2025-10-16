@@ -1,0 +1,22 @@
+# Ignore sensitive keys
+.env
+
+# Ignore Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Ignore editor and OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Ignore LangChain, vector stores, or temp data
+Vectordb/
+.gradio/
+
+# Ignore virtual environment folders
+venv/
+.env/
