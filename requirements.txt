@@ -1,0 +1,7 @@
+langchain_groq
+langchain_huggingface
+sentence-transformers
+langchain_chroma
+unstructured[docx]
+ipython
+gradio
